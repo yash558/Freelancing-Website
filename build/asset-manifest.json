@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22e0dee1.css",
+    "main.js": "/static/js/main.207217ee.js",
+    "static/media/video.mp4": "/static/media/video.460abafed9beeadb2269.mp4",
+    "static/media/sakshi.jpg": "/static/media/sakshi.6d817e2d3d055c7de04b.jpg",
+    "static/media/contact.jpg": "/static/media/contact.13b798d6ec4d62e3e4d2.jpg",
+    "static/media/umeshsir.jpg": "/static/media/umeshsir.16ac2498bc149fa0046f.jpg",
+    "static/media/rajesh.jpg": "/static/media/rajesh.f1f9dadcc6793bdd2eda.jpg",
+    "static/media/logo.png": "/static/media/logo.45ce69761ba8d2161482.png",
+    "static/media/clientthree.png": "/static/media/clientthree.ff18263341eb031e96c1.png",
+    "static/media/clientone.png": "/static/media/clientone.2f30a55bd61b37aa8439.png",
+    "static/media/client5.png": "/static/media/client5.fad26211d412b6662dfb.png",
+    "static/media/clienttwo.png": "/static/media/clienttwo.41e31b6c003835cc914c.png",
+    "static/media/client7.png": "/static/media/client7.ed071f621986177d6f94.png",
+    "static/media/client6.png": "/static/media/client6.ffe45f6c5554a97912ba.png",
+    "index.html": "/index.html",
+    "main.22e0dee1.css.map": "/static/css/main.22e0dee1.css.map",
+    "main.207217ee.js.map": "/static/js/main.207217ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22e0dee1.css",
+    "static/js/main.207217ee.js"
+  ]
+}

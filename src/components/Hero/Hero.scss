@@ -1,0 +1,42 @@
+video{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 0;
+}
+
+.hero-container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    object-fit: contain;
+
+    .hero-details{
+        margin-top: -28rem;
+        z-index: 2;
+
+        h1{
+            font-size: 5rem;
+            
+            color: white;
+        }
+        
+        p{
+            font-size: 1.6rem;
+            color: white;
+            text-align: center;
+
+        }
+
+        .hero-btn{
+            align-items: center;
+            justify-content: center;
+            margin-left: 9rem;
+        }
+        
+    }
+}

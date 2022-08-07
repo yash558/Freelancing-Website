@@ -1,0 +1,49 @@
+.home{       
+.d-flex.flex-row{
+    .line{
+        width: 35%;
+        margin-left: 13rem;
+        font-weight: 600;
+        color: black;
+    }
+    .line2{
+        width: 35%;        
+        font-weight: 600;
+        margin-right: 12rem;
+        color: black;
+        
+    }
+    .container.mx{
+        margin-top: 0.5rem;
+        background-color: red;
+        padding: 0.4rem;
+        width: 0.4rem;
+        height: 0.4rem;
+    }
+}
+
+.home1 {
+    margin-top: 4rem;
+    margin-left: 9rem;
+
+    .line{
+        width: 50%;
+    }
+   
+
+    .home1_img {
+        margin-left : 0.7rem;
+        i {
+            font-size: 3rem;
+            padding: 2rem;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+
+            
+        }
+    }
+    }
+}
